@@ -1,16 +1,10 @@
-﻿using System;
+﻿using FinanceApp.App;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        TransactionManager manager = new TransactionManager();
-
-        // Add sample transactions
-        manager.AddTransaction(new Transaction(1000, DateTime.Now.AddDays(-3), "Income"));
-        manager.AddTransaction(new Transaction(500, DateTime.Now.AddDays(-2), "Expense"));
-        manager.AddTransaction(new Transaction(200, DateTime.Now.AddDays(-1), "Income"));
-
-        manager.PrintSummary();
+        var app = new FinanceApp.App();  // Refers to the class inside FinanceApp.App
+        app.Run();
     }
 }
