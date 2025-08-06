@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Finance_Management_Sysystem/1.0.0": {
+        "runtime": {
+          "Finance_Management_Sysystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finance_Management_Sysystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

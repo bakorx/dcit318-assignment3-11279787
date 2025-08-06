@@ -1,0 +1,15 @@
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\bin\Debug\net9.0\Finance_Management_Sysystem.exe
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\bin\Debug\net9.0\Finance_Management_Sysystem.deps.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\bin\Debug\net9.0\Finance_Management_Sysystem.runtimeconfig.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\bin\Debug\net9.0\Finance_Management_Sysystem.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\bin\Debug\net9.0\Finance_Management_Sysystem.pdb
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.AssemblyInfo.cs
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.sourcelink.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\refint\Finance_Management_Sysystem.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\Finance_Management_Sysystem.genruntimeconfig.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Finance_Management_Sysystem\obj\Debug\net9.0\ref\Finance_Management_Sysystem.dll
