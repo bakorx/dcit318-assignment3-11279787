@@ -1,0 +1,15 @@
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.AssemblyInfo.cs
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.sourcelink.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\bin\Debug\net9.0\School_Grading_System.exe
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\bin\Debug\net9.0\School_Grading_System.deps.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\bin\Debug\net9.0\School_Grading_System.runtimeconfig.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\bin\Debug\net9.0\School_Grading_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\bin\Debug\net9.0\School_Grading_System.pdb
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\refint\School_Grading_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\School_Grading_System.genruntimeconfig.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\School_Grading_System\obj\Debug\net9.0\ref\School_Grading_System.dll
