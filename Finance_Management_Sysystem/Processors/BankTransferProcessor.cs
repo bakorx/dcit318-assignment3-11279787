@@ -1,6 +1,6 @@
-using FinanceApp.Interfaces;
-using FinanceApp.Models;
 using System;
+using FinanceApp.Models;
+using FinanceApp.Interfaces;
 
 namespace FinanceApp.Processors
 {
@@ -8,7 +8,7 @@ namespace FinanceApp.Processors
     {
         public void Process(Transaction transaction)
         {
-            Console.WriteLine($"[Bank Transfer] Processed transaction of {transaction.Amount:C} for {transaction.Category}");
+            Console.WriteLine($"[Bank Transfer] Processed: {transaction.Description} - Amount: {transaction.Amount:C}");
         }
     }
 }

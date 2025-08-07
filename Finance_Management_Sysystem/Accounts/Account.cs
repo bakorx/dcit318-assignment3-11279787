@@ -4,7 +4,7 @@ namespace FinanceApp.Accounts
 {
     public class Account
     {
-        public string AccountNumber { get; }
+        public string AccountNumber { get; set; }
         public decimal Balance { get; protected set; }
 
         public Account(string accountNumber, decimal initialBalance)
@@ -16,7 +16,6 @@ namespace FinanceApp.Accounts
         public virtual void ApplyTransaction(Transaction transaction)
         {
             Balance -= transaction.Amount;
-            Console.WriteLine($"[Account] New balance: {Balance:C}");
         }
     }
 }

@@ -1,10 +1,34 @@
-﻿using FinanceApp.App;
+using System;
+using System.Collections.Generic;
+using FinanceApp.Models;
+using FinanceApp.Accounts;
+using FinanceApp.Interfaces;
+using FinanceApp.Processors;
 
-class Program
+namespace FinanceApp
 {
-    static void Main(string[] args)
+    class Program
     {
-        var app = new FinanceApp.App();  // Refers to the class inside FinanceApp.App
-        app.Run();
+        static void Main()
+        {
+            var account = new SavingsAccount("UG12345", 1000m);
+
+            var transaction1 = new Transaction(1, DateTime.Now, 150m, "Groceries");
+            var transaction2 = new Transaction(2, DateTime.Now, 300m, "Utilities");
+            var transaction3 = new Transaction(3, DateTime.Now, 200m, "Entertainment");
+
+            ITransactionProcessor mobileMoney = new MobileMoneyProcessor();
+            ITransactionProcessor bankTransfer = new BankTransferProcessor();
+            ITransactionProcessor crypto = new CryptoWalletProcessor();
+
+            mobileMoney.Process(transaction1);
+            account.ApplyTransaction(transaction1);
+
+            bankTransfer.Process(transaction2);
+            account.ApplyTransaction(transaction2);
+
+            crypto.Process(transaction3);
+            account.ApplyTransaction(transaction3);
+        }
     }
 }

@@ -3,7 +3,7 @@ using FinanceApp.Models;
 
 namespace FinanceApp.Accounts
 {
-    public sealed class SavingsAccount : Account
+    public class SavingsAccount : Account
     {
         public SavingsAccount(string accountNumber, decimal initialBalance)
             : base(accountNumber, initialBalance)
@@ -12,15 +12,8 @@ namespace FinanceApp.Accounts
 
         public override void ApplyTransaction(Transaction transaction)
         {
-            if (transaction.Amount > Balance)
-            {
-                Console.WriteLine("Insufficient funds for transaction.");
-            }
-            else
-            {
-                Balance -= transaction.Amount;
-                Console.WriteLine($"[SavingsAccount] {transaction.Amount:C} deducted. New Balance: {Balance:C}");
-            }
+            base.ApplyTransaction(transaction);
+            Console.WriteLine($"[Savings Account] Transaction Applied: {transaction.Description}, New Balance: {Balance:C}");
         }
     }
 }
