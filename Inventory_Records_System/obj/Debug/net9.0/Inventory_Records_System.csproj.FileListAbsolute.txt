@@ -1,0 +1,15 @@
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\bin\Debug\net9.0\Inventory_Records_System.exe
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\bin\Debug\net9.0\Inventory_Records_System.deps.json
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\bin\Debug\net9.0\Inventory_Records_System.runtimeconfig.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\bin\Debug\net9.0\Inventory_Records_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\bin\Debug\net9.0\Inventory_Records_System.pdb
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.AssemblyInfoInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.AssemblyInfo.cs
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.csproj.CoreCompileInputs.cache
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.sourcelink.json
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\refint\Inventory_Records_System.dll
+c:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.pdb
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\Inventory_Records_System.genruntimeconfig.cache
+C:\Users\USER\Desktop\kb_files\318\dcit318-assignment3-11279787\Inventory_Records_System\obj\Debug\net9.0\ref\Inventory_Records_System.dll
